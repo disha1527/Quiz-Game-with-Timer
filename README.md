@@ -5,6 +5,8 @@ manipulating the DOM, using setInterval, working with arrays of objects, writing
 and using loops. Moreover, this game project can also provide you with valuable experience
 in HTML and CSS, which can help you in web development.</p>
 
+Live Demo: https://disha1527.github.io/Quiz-Game-with-Timer/
+
 ![Screenshot 2025-02-23 213708](https://github.com/user-attachments/assets/2b32365d-ea74-4103-ab68-cb0eb44874a8)
 
 ![Screenshot 2025-02-23 213809](https://github.com/user-attachments/assets/3b885b9f-1c28-48d5-aca4-48c6bc1f1aa2)
